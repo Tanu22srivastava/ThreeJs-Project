@@ -18,7 +18,7 @@ const Shirt = () => {
   return (
     
 
-    <group key={stateString} scale={2}>
+    <group key={stateString} >
       
         <mesh
         castShadow
